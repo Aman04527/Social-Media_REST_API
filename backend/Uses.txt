@@ -1,0 +1,8 @@
+express : handle incoming request , route them to right places and send responses backout
+Mongoose : trusty bridge to mongodb database and help us define data models interact with connections and keep out data organised
+bcrypt : security guard for out user's password
+dotenv : secret ward for our api assenstive keys and settings 
+cookie-parser : manage cookies and a little bit of data
+jsonwebtoken : it will generate se secure tokens that verifies our identites and protect sensetive routes 
+multer : for image uploads
+path : guide for our navigation
