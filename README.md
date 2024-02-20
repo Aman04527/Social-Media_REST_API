@@ -1,6 +1,6 @@
 # Social-Media_REST_API
 Exploring Social Media REST APIs with Node.js, Express.js, and MongoDB
-Welcome to our project where we delve into the intricacies of building Social Media REST APIs using Node.js, Express.js, and MongoDB. We cover a wide range of topics, from fundamental CRUD operations to advanced features that enhance user experience and functionality.
+Welcome to our project where we delve into the intricacies of building Social Media REST APIs using Node.js, Express.js, and MongoDB. Covering a wide range of topics, from fundamental CRUD operations to advanced features that enhance user experience and functionality.
 
 # 🚀 Topics Covered
 1. CRUD Operations
