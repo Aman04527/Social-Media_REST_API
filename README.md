@@ -4,7 +4,7 @@ Welcome to our project where we delve into the intricacies of building Social Me
 
 # 🚀 Topics Covered
 1. CRUD Operations
-Learn how to perform Create, Read, Update, and Delete operations to manage user data and content effectively.
+to perform Create, Read, Update, and Delete operations to manage user data and content effectively.
 
 2. JWT Token Authentication
 Implement JWT (JSON Web Token) authentication to secure API endpoints and validate user access to resources.
